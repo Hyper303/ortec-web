@@ -1,0 +1,14 @@
+{
+  "avg_price_change_pct": -2.2256400035432717,
+  "avg_bookings_uplift": 0.1148094178604482,
+  "avg_revenue_uplift": 26.62773691241067,
+  "share_price_changed": 0.3366163964921605,
+  "avg_occupancy_change": 0.00030031692325360287,
+  "guardrail_settings": {
+    "price_floor_multiplier": 0.92,
+    "price_ceiling_multiplier": 1.08,
+    "low_occupancy_threshold": 0.55,
+    "high_occupancy_threshold": 0.85
+  },
+  "share_guardrail_fallback": 0.0
+}

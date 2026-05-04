@@ -1,0 +1,143 @@
+SeasonalCluster,CampsiteCluster,BrandGroupCode,CampsiteCode,latitude,longitude,AccoTypeRangeCode,AccoKindCode,AccommodationType,AccommodationRange,CampsiteCountry,CampsiteRegion,CampsiteType,Airco,Bedrooms,DeckingType,HotTub,Tropical,Roof,Kitchen,DeckingExtras,Bathrooms,Sleeps,TV
+Perrserker,Froakie,Thundurus,Meditite,35.2708,22.4478,Comfort,Mobile,All-Inclusive,Budget,Lental,Alola,Cabin,0,2,Tile,0,0,Canvas,Gourmet,BBQ,1,234,0
+Whimsicott,Tapulele,Tinglu,Drampa,44.8769,6.7016,Comfort,Mobile,Basic,Premium,Orre,Kalos,Villa,0,2,Wood,1,0,Tile,Kitchenette,Pool Access,1,590,1
+Eelektross,Garbodor,Armaldo,Fearow,50.7137,19.3604,Romantic,Mobile,Serviced,Mid,Oblivia,Unova,Glamping,1,2,Missing,0,0,Metal,Missing,Pool Access,2,349,1
+Electrode,Furfrou,Espeon,Krabby,60.4678,19.9136,Luxury,Permanent,Basic,Budget,Almia,Sinnoh,Cabin,0,2,Missing,0,0,Canvas,Missing,Hot Tub,1,305,0
+Gossifleur,Duraludon,Slowpoke,Carnivine,59.1798,20.3155,Standard,Static,Self-Catering,Mid,Almia,Sinnoh,Lodge,0,1,Wood,0,0,Wood,Full,Missing,2,435,1
+Honedge,Charjabug,Naganadel,Zoroark,36.0265,26.1923,Comfort,Permanent,Serviced,Premium,Lental,Alola,Villa,1,4,Missing,0,0,Metal,Missing,Missing,2,950,1
+Jynx,Revavroom,Blissey,Combee,40.7969,-2.6525,Romantic,Mobile,Self-Catering,Mid,Fiore,Paldea,Cabin,0,1,Stone,0,0,Metal,Basic,Furniture,1,211,0
+Cobalion,Duosion,Caterpie,Glaceon,53.9458,23.6266,Standard,Static,Serviced,Mid,Oblivia,Unova,Glamping,0,2,Wood,0,0,Wood,Basic,BBQ,2,168,1
+Sentret,Ralts,Steenee,Trubbish,59.4492,7.6604,Romantic,Seasonal,Serviced,Premium,Ferrum,Hisui,Tent,1,2,Wood,0,0,Thatched,Full,BBQ,1,369,0
+Gothitelle,Caterpie1,Decidueye,MimeJr,33.8864,24.4603,Standard,Static,Serviced,Budget,Lental,Alola,Villa,0,1,Composite,0,0,Wood,Missing,BBQ,1,208,0
+Volcarona,Sandygast,Buizel,Gimmighoul,49.2556,13.8868,Comfort,Mobile,Serviced,Mid,Ransei,Kanto,Bungalow,0,1,Wood,0,1,Metal,Full,Garden,2,242,0
+Sobble,Regieleki,Illumise,Appletun,49.3836,-1.916,Comfort,Mobile,Self-Catering,Mid,Orre,Johto,Glamping,0,1,Stone,0,0,Metal,Basic,Garden,1,314,1
+Haxorus,Munchlax,Zubat,Chansey,40.7392,-0.8025,Luxury,Seasonal,Basic,Mid,Fiore,Paldea,Bungalow,0,2,Tile,0,0,Wood,Basic,Missing,1,473,0
+Unfezant,Carvanha,Pawmot,Electrike,41.0703,-5.956,Luxury,Permanent,Basic,Budget,Fiore,Paldea,Lodge,0,2,Tile,0,0,Tile,Kitchenette,Pool Access,1,279,0
+Raboot,Tandemaus,Boldore,Regigigas,47.9022,12.6358,Standard,Mobile,All-Inclusive,Premium,Ransei,Kanto,Villa,1,4,Tile,1,0,Wood,Basic,Furniture,2,610,1
+Noivern,Empoleon,Unown,Charjabug1,47.7929,12.3606,Family,Permanent,Serviced,Budget,Ransei,Kanto,Lodge,0,1,Missing,0,0,Canvas,Full,Furniture,1,493,1
+Cetoddle,Komala,Fraxure,Grumpig,48.8054,14.5094,Romantic,Permanent,Basic,Premium,Ransei,Kanto,Lodge,0,3,Tile,0,1,Tile,Full,BBQ,2,756,1
+Doduo,Snorlax,Oinkologne,Darmanitan,39.3548,-4.6887,Comfort,Mobile,Basic,Mid,Fiore,Paldea,MobileHome,0,1,Wood,1,0,Thatched,Full,Hot Tub,2,355,1
+Eiscue,Lechonk,Silvally,Kricketot,58.4149,4.4327,Romantic,Permanent,Serviced,Mid,Ferrum,Hisui,Tent,0,2,Composite,0,1,Metal,Full,Garden,2,348,1
+Persian,Cascoon,PorygonZ,Skiploom,37.2923,-6.6072,Luxury,Permanent,Serviced,Budget,Fiore,Hoenn,Tent,0,1,Composite,0,0,Tile,Basic,Missing,1,271,0
+Totodile,Larvitar,Spearow,Cobalion1,45.7477,3.0017,Family,Mobile,Self-Catering,Premium,Orre,Kalos,Lodge,1,2,Wood,0,1,Metal,Kitchenette,Pool Access,1,628,1
+Trevenant,Clobbopus,Slowpoke1,Lampent,36.3079,-3.1313,Standard,Mobile,All-Inclusive,Budget,Fiore,Hoenn,Villa,0,2,Tile,0,0,Thatched,Missing,BBQ,1,221,0
+Gliscor,Torracat,Quaquaval,Sizzlipede,47.8514,-2.5047,Family,Mobile,Serviced,Mid,Orre,Johto,Bungalow,0,2,Composite,0,0,Tile,Full,Hot Tub,1,202,0
+Cradily,Nidorina,Inkay,Chimchar,44.9512,5.2246,Luxury,Permanent,Serviced,Mid,Orre,Kalos,Lodge,0,2,Composite,0,0,Thatched,Basic,Pool Access,1,534,1
+Vespiquen,Pumpkaboo,Mawile,Houndour,35.0328,21.9128,Luxury,Mobile,All-Inclusive,Budget,Lental,Alola,MobileHome,0,2,Tile,0,0,Thatched,Basic,BBQ,1,259,0
+Remoraid,Salazzle,Sunkern,Murkrow,52.3732,22.5853,Luxury,Permanent,All-Inclusive,Premium,Oblivia,Unova,Lodge,0,2,Wood,1,1,Metal,Missing,Garden,3,435,1
+Croagunk,Milotic,Azelf,Shaymin,49.626,12.0264,Standard,Mobile,All-Inclusive,Premium,Ransei,Kanto,Villa,0,5,Stone,1,1,Tile,Missing,Pool Access,1,811,1
+Seismitoad,Monferno,Porygon2,Xurkitree,37.1466,-2.677,Family,Permanent,All-Inclusive,Mid,Fiore,Hoenn,Villa,0,3,Stone,0,0,Thatched,Missing,Furniture,2,322,0
+Clefairy,Elekid,Dialga,Skitty,47.7514,-0.5416,Luxury,Seasonal,Basic,Premium,Orre,Johto,Cabin,1,3,Wood,0,0,Thatched,Kitchenette,Hot Tub,1,368,1
+Skorupi,Magikarp,Grafaiai,Hariyama,37.1015,-2.476,Luxury,Permanent,Basic,Budget,Fiore,Hoenn,Villa,0,1,Tile,0,0,Thatched,Missing,Hot Tub,1,427,0
+Ampharos,Dialga1,Hakamoo,Turtonator,49.4208,12.0395,Luxury,Permanent,Serviced,Premium,Ransei,Kanto,Caravan,0,2,Stone,0,1,Canvas,Full,BBQ,3,247,1
+Torkoal,Swampert,Magmortar,Gastly,49.3716,-1.3772,Standard,Seasonal,Basic,Mid,Orre,Johto,Cabin,0,2,Missing,0,0,Tile,Missing,Furniture,2,271,1
+Magmar,Nidorina1,Yveltal,Tepig,57.664,-3.5596,Comfort,Mobile,All-Inclusive,Mid,Pasio,Galar,MobileHome,0,3,Tile,0,1,Canvas,Full,Missing,1,401,0
+Cryogonal,Blitzle,Umbreon,Grafaiai1,52.0568,18.8801,Standard,Mobile,All-Inclusive,Premium,Oblivia,Unova,Villa,1,5,Stone,1,0,Metal,Missing,BBQ,1,667,1
+Xerneas,Larvitar1,Quagsire,Ironvaliant,55.7747,-4.2576,Comfort,Permanent,Basic,Mid,Pasio,Galar,Cabin,1,2,Stone,0,0,Tile,Kitchenette,Hot Tub,2,301,0
+Cherrim,Zarude,Oricorio,Dragonite,60.4951,5.0637,Standard,Mobile,Basic,Budget,Ferrum,Hisui,Bungalow,0,2,Composite,0,0,Canvas,Basic,Garden,1,313,0
+Gengar,Munchlax1,Stantler,Passimian,44.4739,7.3311,Standard,Static,Basic,Mid,Orre,Kalos,MobileHome,1,1,Composite,0,1,Canvas,Basic,BBQ,1,445,1
+Tyranitar,Pansage,Larvesta,Hawlucha,38.7327,-1.4788,Comfort,Mobile,Basic,Mid,Fiore,Paldea,Glamping,0,1,Stone,0,1,Tile,Basic,Garden,1,242,1
+Servine,Rhyhorn,Empoleon1,Eiscue1,45.3305,3.0008,Family,Mobile,All-Inclusive,Mid,Orre,Kalos,Villa,0,2,Composite,1,0,Tile,Basic,Missing,2,516,1
+Komala1,Crabominable,Mudkip,Tyrunt,47.0111,9.7228,Standard,Mobile,Self-Catering,Mid,Ransei,Kanto,MobileHome,1,1,Stone,1,0,Wood,Missing,BBQ,2,429,1
+Snivy,Ironhands,Arrokuda,Orthworm,60.6512,16.6104,Luxury,Seasonal,Self-Catering,Mid,Almia,Sinnoh,Cabin,0,2,Missing,0,0,Tile,Gourmet,BBQ,2,411,1
+Clawitzer,Miltank,Kyogre,Rhydon,51.7538,21.8435,Standard,Permanent,All-Inclusive,Premium,Oblivia,Unova,Caravan,0,4,Wood,0,0,Tile,Basic,Garden,3,303,1
+Noivern1,Glimmora,Cetoddle1,Steenee1,47.6897,10.8081,Romantic,Permanent,Serviced,Budget,Ransei,Kanto,Villa,0,1,Missing,0,0,Metal,Missing,Garden,1,498,0
+Falinks,Cramorant,Pinsir,Flamigo,58.9219,16.2075,Standard,Permanent,Serviced,Premium,Almia,Sinnoh,Bungalow,1,4,Tile,0,1,Metal,Kitchenette,Furniture,1,326,1
+Shroomish,Arctozolt,Haxorus1,Venusaur,41.5143,-1.9719,Comfort,Mobile,All-Inclusive,Budget,Fiore,Paldea,Lodge,0,1,Missing,0,1,Canvas,Basic,Furniture,1,342,0
+Chandelure,Chansey1,Shelgon,Woobat,50.4839,20.7019,Romantic,Permanent,Serviced,Premium,Oblivia,Unova,Tent,0,2,Missing,0,0,Thatched,Basic,Hot Tub,3,225,1
+Lapras,Surskit,Bayleef,Bellsprout,57.5504,-4.2556,Family,Seasonal,All-Inclusive,Budget,Pasio,Galar,Glamping,0,2,Tile,0,0,Canvas,Gourmet,Garden,1,148,0
+Jirachi,Tatsugiri,Aromatisse,Zigzagoon,57.7096,17.6292,Family,Mobile,Self-Catering,Premium,Almia,Sinnoh,Glamping,1,5,Missing,1,1,Metal,Kitchenette,Pool Access,3,273,1
+Jellicent,Unfezant1,Glalie,Lickitung,49.9909,-1.0753,Comfort,Mobile,Basic,Budget,Orre,Johto,Glamping,0,2,Missing,0,0,Canvas,Basic,Pool Access,1,138,1
+Feebas,Snorunt,Carvanha1,Grafaiai2,39.1385,-2.4876,Comfort,Static,Serviced,Premium,Fiore,Paldea,Tent,1,4,Stone,1,0,Canvas,Missing,Garden,1,349,1
+Meowth,Clauncher,Minior,Zweilous,57.4867,-5.2548,Luxury,Static,Basic,Budget,Pasio,Galar,Bungalow,0,2,Stone,0,0,Wood,Gourmet,Missing,1,171,0
+Glimmora1,Slugma,Qwilfish,Manectric,62.3291,2.6508,Luxury,Mobile,All-Inclusive,Budget,Ferrum,Hisui,MobileHome,0,1,Missing,0,0,Wood,Full,Pool Access,1,252,0
+Chatot,Escavalier,Numel,Amoonguss,43.7883,2.2727,Family,Permanent,All-Inclusive,Budget,Orre,Kalos,Caravan,0,2,Missing,0,0,Thatched,Full,Garden,1,155,0
+Guzzlord,Igglybuff,Houndour1,Baltoy,49.5994,-0.203,Romantic,Static,Self-Catering,Mid,Orre,Johto,Lodge,0,1,Wood,0,0,Wood,Kitchenette,Missing,2,406,1
+Aurorus,Toedscool,Joltik,Weavile,60.2471,5.7045,Luxury,Seasonal,Serviced,Mid,Ferrum,Hisui,Cabin,0,1,Stone,0,0,Metal,Gourmet,Missing,2,401,1
+Axew,Unfezant2,Gengar1,Heatmor,56.532,-0.3241,Family,Permanent,Self-Catering,Budget,Pasio,Galar,MobileHome,0,2,Tile,0,0,Tile,Gourmet,Furniture,1,156,0
+Noctowl,Beldum,Seismitoad1,Bouffalant,43.7003,4.442,Luxury,Seasonal,Basic,Premium,Orre,Kalos,Caravan,1,3,Composite,0,1,Metal,Missing,BBQ,3,318,1
+Wynaut,Sharpedo,Moltres,Wattrel,51.5631,21.5086,Comfort,Permanent,Self-Catering,Mid,Oblivia,Unova,Villa,1,3,Stone,0,0,Wood,Gourmet,Missing,1,554,0
+Feraligatr,Magnemite,Porygon21,Aerodactyl,45.74,4.7231,Standard,Seasonal,Self-Catering,Budget,Orre,Kalos,Tent,0,1,Tile,0,0,Wood,Kitchenette,Garden,1,149,0
+Miltank1,Petilil,Naganadel1,Weavile1,56.3957,-1.674,Luxury,Mobile,Basic,Budget,Pasio,Galar,Tent,0,1,Wood,0,0,Tile,Full,BBQ,1,157,0
+Tinkatuff,Hitmonchan,Kyogre1,Garbodor1,33.4488,24.6928,Luxury,Static,Self-Catering,Mid,Lental,Alola,Cabin,0,1,Composite,0,0,Tile,Missing,Furniture,2,423,0
+Grimmsnarl,Toucannon,Flittle,Exeggutor,34.7398,21.9784,Comfort,Seasonal,Serviced,Mid,Lental,Alola,Tent,1,2,Stone,0,1,Tile,Full,Pool Access,1,221,1
+Diglett,Larvitar2,Manectric1,Magmar1,50.6744,19.7408,Romantic,Permanent,Basic,Mid,Oblivia,Unova,Lodge,1,3,Stone,0,1,Thatched,Gourmet,Furniture,2,535,0
+Unfezant4,Garbodor2,Unfezant3,Zeraora,46.4058,11.7384,Family,Static,Basic,Budget,Ransei,Kanto,Bungalow,1,1,Stone,0,0,Canvas,Basic,Missing,1,184,0
+Shaymin1,Meloetta,Ironvaliant1,Noibat,61.7128,6.4302,Comfort,Mobile,Self-Catering,Budget,Ferrum,Hisui,Bungalow,0,2,Stone,0,0,Wood,Missing,BBQ,1,168,0
+Corphish,Kirlia,Zacian,Gogoat,39.8447,-2.0188,Luxury,Static,Basic,Budget,Fiore,Paldea,MobileHome,0,1,Stone,0,0,Wood,Full,Garden,1,192,0
+Roselia,Mantyke,Meowstic,Aron,47.4021,-4.1974,Comfort,Permanent,Basic,Budget,Orre,Johto,Glamping,0,1,Missing,0,0,Thatched,Full,BBQ,1,107,0
+Vulpix,Lapras1,Marshadow,Hippowdon,33.8112,25.4547,Comfort,Static,All-Inclusive,Premium,Lental,Alola,Bungalow,1,3,Tile,1,1,Tile,Basic,BBQ,1,463,1
+Ceruledge,Solosis,Timburr,Staraptor,34.825,-6.3051,Luxury,Static,All-Inclusive,Mid,Fiore,Hoenn,Bungalow,0,1,Wood,0,1,Tile,Kitchenette,Missing,1,288,1
+Electrike1,Frosmoth,Nosepass,Quaquaval1,37.5595,-4.1214,Comfort,Mobile,All-Inclusive,Budget,Fiore,Hoenn,MobileHome,0,2,Missing,0,0,Wood,Full,Missing,1,399,0
+Cosmog,Cherrim1,Sewaddle,Shellos,57.9517,-1.8751,Comfort,Static,All-Inclusive,Premium,Pasio,Galar,Cabin,1,4,Stone,0,0,Wood,Gourmet,Garden,2,504,1
+Houndstone,Varoom,Donphan,Dusclops,39.0647,-1.0954,Standard,Seasonal,All-Inclusive,Mid,Fiore,Paldea,Tent,1,2,Tile,0,0,Thatched,Gourmet,Missing,1,339,1
+Nidorina2,Dodrio,Barraskewda,Drakloak,61.7614,5.7038,Romantic,Static,All-Inclusive,Mid,Ferrum,Hisui,Cabin,0,3,Tile,0,0,Tile,Gourmet,BBQ,2,234,0
+Golurk,Dragonite1,Granbull,Milotic1,59.0877,17.9741,Luxury,Seasonal,All-Inclusive,Premium,Almia,Sinnoh,Glamping,0,2,Wood,0,0,Canvas,Basic,Furniture,1,263,1
+Lunatone,Tinkatuff1,Ledyba,Yamper,58.3224,20.2604,Comfort,Seasonal,Serviced,Mid,Almia,Sinnoh,Cabin,0,2,Tile,0,0,Tile,Missing,Missing,2,219,0
+Loudred,Sandile,Skrelp,Dialga2,59.7194,20.1257,Standard,Static,Basic,Mid,Almia,Sinnoh,Lodge,1,2,Composite,0,0,Metal,Missing,Hot Tub,2,449,1
+Eevee,Gholdengo,Rufflet,Scyther,45.2505,5.5449,Family,Static,All-Inclusive,Mid,Orre,Kalos,Villa,0,3,Composite,0,0,Wood,Kitchenette,Pool Access,2,319,1
+Lunatone1,Flittle1,Drilbur,Zapdos,47.9631,12.2196,Comfort,Seasonal,Basic,Premium,Ransei,Kanto,Tent,0,5,Composite,0,0,Thatched,Gourmet,Hot Tub,3,227,1
+Sandslash,Cubchoo,Goodra,Kyurem,49.3221,12.9339,Luxury,Permanent,Serviced,Mid,Ransei,Kanto,Bungalow,0,2,Tile,0,0,Thatched,Full,Furniture,2,271,0
+Braviary,Shroodle,Panpour,Pheromosa,60.0431,3.5455,Standard,Permanent,Serviced,Budget,Ferrum,Hisui,Caravan,0,2,Tile,0,0,Thatched,Full,BBQ,1,123,0
+Cinccino,Meditite1,Sceptile,Slakoth,40.8571,-5.5502,Luxury,Mobile,All-Inclusive,Mid,Fiore,Paldea,Bungalow,0,3,Stone,0,0,Metal,Basic,Missing,2,330,1
+Toxicroak,Gogoat1,Dusclops1,Toedscool1,34.3906,26.0941,Family,Seasonal,Serviced,Premium,Lental,Alola,Bungalow,1,4,Tile,1,0,Metal,Kitchenette,Missing,1,674,1
+Aurorus1,Solgaleo,Heatran,Cubone,57.7301,17.0504,Standard,Mobile,Serviced,Budget,Almia,Sinnoh,Tent,0,1,Stone,0,0,Metal,Basic,BBQ,1,209,0
+Jigglypuff,Hatterene,Tinkatuff2,Mabosstiff,60.0628,7.3477,Family,Permanent,Serviced,Mid,Ferrum,Hisui,Lodge,0,1,Composite,0,1,Thatched,Gourmet,Missing,1,435,0
+Glaceon1,Spewpa,Ariados,Mudsdale,54.7245,-5.5124,Comfort,Seasonal,Self-Catering,Budget,Pasio,Galar,MobileHome,0,2,Composite,0,0,Wood,Gourmet,Garden,1,359,0
+Raikou,Snover,Dustox,Prinplup,47.4117,-3.1895,Luxury,Seasonal,All-Inclusive,Mid,Orre,Johto,Glamping,0,1,Tile,1,0,Wood,Missing,Garden,2,264,1
+Totodile1,Magmortar1,Omanyte,Darkrai,35.6986,23.1241,Family,Seasonal,Basic,Mid,Lental,Alola,Villa,0,2,Wood,0,0,Thatched,Missing,Pool Access,2,538,1
+Amaura,Scizor,Toxicroak1,Starmie,59.0494,7.449,Standard,Permanent,Basic,Budget,Ferrum,Hisui,Caravan,0,1,Stone,0,0,Thatched,Missing,Pool Access,1,107,0
+Tinkaton,Tarountula,Maractus,Abra,34.9349,26.0116,Family,Static,Self-Catering,Premium,Lental,Alola,Villa,1,2,Wood,0,0,Tile,Basic,Hot Tub,1,881,1
+Charmander,Turtonator1,Kingdra,Hatenna,48.2327,-0.3107,Luxury,Static,Basic,Budget,Orre,Johto,Cabin,0,1,Tile,0,0,Wood,Kitchenette,Hot Tub,1,285,0
+Beartic,Skrelp1,Clefable,Snover1,46.9416,-4.0724,Comfort,Static,Self-Catering,Mid,Orre,Johto,Tent,0,1,Wood,0,0,Canvas,Kitchenette,Pool Access,1,332,0
+Houndour2,Drifloon,Meowstic1,Tympole,59.5984,3.1817,Luxury,Seasonal,Self-Catering,Budget,Ferrum,Hisui,Bungalow,0,2,Tile,0,0,Tile,Gourmet,Hot Tub,1,245,1
+Donphan1,Electrike2,Tyranitar1,Pincurchin,33.9756,25.0369,Family,Mobile,Self-Catering,Mid,Lental,Alola,Bungalow,0,2,Stone,0,1,Wood,Basic,Furniture,2,379,1
+Glastrier,Golem,Mienfoo,Golbat,55.0271,-2.1463,Romantic,Mobile,Serviced,Mid,Pasio,Galar,Bungalow,0,1,Composite,0,0,Wood,Kitchenette,Garden,1,218,1
+Dustox1,Luvdisc,Relicanth,Swalot,58.8519,18.2705,Family,Permanent,Self-Catering,Mid,Almia,Sinnoh,Lodge,0,2,Stone,0,0,Wood,Basic,BBQ,2,395,1
+Polteageist,Grovyle,Chimchar1,Deerling,57.9389,17.0478,Romantic,Permanent,All-Inclusive,Budget,Almia,Sinnoh,Cabin,0,2,Stone,0,0,Tile,Full,Furniture,1,152,0
+Dugtrio,Kommoo,Coalossal,Inkay1,38.0776,-6.9754,Family,Static,Serviced,Budget,Fiore,Hoenn,MobileHome,0,1,Wood,0,0,Wood,Gourmet,Hot Tub,1,180,0
+Chienpao,Exploud,Surskit1,Basculin,58.4387,5.4986,Romantic,Static,Basic,Mid,Ferrum,Hisui,MobileHome,0,3,Wood,0,1,Wood,Kitchenette,Furniture,2,366,0
+Dedenne,Toxtricity,Porygon22,Electrike3,44.2093,7.7469,Standard,Static,Self-Catering,Budget,Orre,Kalos,Villa,0,2,Stone,0,1,Canvas,Kitchenette,Missing,1,414,0
+Pelipper,Venomoth,Vanillite,Cresselia,45.5544,5.9592,Luxury,Static,Self-Catering,Budget,Orre,Kalos,Caravan,0,1,Composite,0,0,Wood,Full,Missing,1,267,1
+Oranguru,Gimmighoul1,Magneton,Simisear,61.5533,6.458,Standard,Seasonal,Self-Catering,Budget,Ferrum,Hisui,Glamping,0,2,Missing,0,0,Thatched,Full,BBQ,1,186,1
+Lunala,Hydreigon,Monferno1,Muk,54.6963,-2.673,Comfort,Seasonal,Self-Catering,Budget,Pasio,Galar,MobileHome,1,2,Wood,0,0,Wood,Full,BBQ,1,188,0
+Floatzel,Hitmonchan1,Zorua,Gigalith,50.9793,20.7053,Standard,Static,All-Inclusive,Budget,Oblivia,Unova,MobileHome,0,1,Tile,0,0,Tile,Missing,BBQ,1,214,0
+Machop,Cleffa,Lillipup,Mew,38.9722,-4.897,Luxury,Permanent,Basic,Budget,Fiore,Paldea,Lodge,0,2,Missing,0,0,Tile,Gourmet,Pool Access,1,338,1
+Rolycoly,Cramorant1,Claydol,Spiritomb,53.446,19.9895,Luxury,Mobile,All-Inclusive,Mid,Oblivia,Unova,Tent,0,3,Wood,0,1,Tile,Basic,BBQ,2,380,0
+Politoed,Sylveon,Lampent1,Scrafty,58.8469,5.7052,Family,Static,Serviced,Premium,Ferrum,Hisui,Lodge,1,5,Composite,0,1,Tile,Full,Furniture,2,501,1
+Honchkrow,Crustle,Urshifu,Pumpkaboo1,36.8588,-1.8804,Luxury,Static,Self-Catering,Budget,Fiore,Hoenn,Glamping,0,2,Wood,0,0,Thatched,Missing,Pool Access,1,206,0
+Galvantula,Goodra1,Gurdurr,Cinccino1,34.2751,24.8734,Family,Mobile,All-Inclusive,Budget,Lental,Alola,Bungalow,0,1,Tile,0,0,Canvas,Full,Missing,1,340,1
+Noivern2,Tangrowth,Hippowdon1,Oricorio1,36.653,-4.5644,Standard,Seasonal,All-Inclusive,Premium,Fiore,Hoenn,Bungalow,1,3,Missing,1,1,Canvas,Kitchenette,Garden,3,391,1
+Roserade,Nidorina3,Pangoro,Gabite,37.2403,-6.3031,Family,Mobile,Basic,Budget,Fiore,Hoenn,Bungalow,0,1,Wood,0,0,Canvas,Gourmet,Missing,1,241,0
+Chimecho,Glalie1,Eelektrik,Goldeen,44.3372,5.4734,Romantic,Permanent,Serviced,Budget,Orre,Kalos,Bungalow,0,2,Composite,0,0,Wood,Basic,Missing,1,177,1
+Bergmite,Mabosstiff1,Chesnaught,Krokorok,43.4841,2.92,Romantic,Mobile,Serviced,Premium,Orre,Kalos,Cabin,1,3,Wood,1,0,Thatched,Missing,BBQ,3,462,0
+Dewott,Cleffa1,Obstagoon,Finneon,60.0681,17.5624,Romantic,Static,Self-Catering,Budget,Almia,Sinnoh,Glamping,0,2,Wood,0,0,Thatched,Basic,Furniture,1,242,0
+Sigilyph,Delibird,Vikavolt,Croagunk1,57.2437,-5.9386,Standard,Permanent,Serviced,Premium,Pasio,Galar,Caravan,1,4,Missing,0,1,Canvas,Full,Missing,3,338,1
+Orbeetle,Poliwrath,Yamper1,Shuckle,60.8559,7.0312,Romantic,Seasonal,All-Inclusive,Mid,Ferrum,Hisui,Bungalow,0,2,Wood,0,0,Metal,Gourmet,BBQ,1,440,0
+Blaziken,Mew1,Zacian1,Porygon,49.5855,-3.9165,Comfort,Seasonal,Basic,Budget,Orre,Johto,Cabin,0,1,Tile,0,0,Tile,Full,Missing,1,386,0
+Araquanid,Hypno,Buzzwole,Alcremie,39.726,-6.689,Luxury,Permanent,Self-Catering,Mid,Fiore,Paldea,Villa,0,2,Stone,0,0,Wood,Full,BBQ,2,540,1
+Pidgeotto,Magikarp1,Hatterene1,Gliscor1,38.6006,-2.9467,Family,Mobile,Basic,Mid,Fiore,Paldea,Cabin,1,2,Stone,0,0,Wood,Basic,Furniture,1,336,0
+Miltank2,Chatot1,Zygarde,Komala2,43.5347,3.6386,Standard,Static,Self-Catering,Premium,Orre,Kalos,Villa,1,3,Missing,1,1,Tile,Missing,Missing,1,529,1
+Piplup,Buzzwole1,Medicham,Aerodactyl1,33.6529,24.0147,Comfort,Mobile,Self-Catering,Mid,Lental,Alola,Cabin,0,1,Missing,0,1,Metal,Kitchenette,Garden,1,310,0
+Rillaboom,Zapdos1,Chatot2,Torkoal1,56.8733,-4.0791,Luxury,Mobile,Self-Catering,Premium,Pasio,Galar,Lodge,1,2,Tile,0,0,Canvas,Basic,Furniture,3,425,1
+Geodude,Leavanny,Delphox,Axew1,34.7836,23.2558,Luxury,Static,All-Inclusive,Budget,Lental,Alola,Villa,0,1,Tile,0,0,Wood,Full,Missing,1,362,1
+Hoopa,Wormadam,Buneary,Skuntank,52.744,21.0185,Romantic,Static,Serviced,Budget,Oblivia,Unova,Lodge,0,2,Composite,0,0,Wood,Gourmet,BBQ,1,207,0
+Braviary1,Bisharp,Staryu,Electivire,47.0952,0.87,Luxury,Static,Serviced,Mid,Orre,Johto,Villa,1,1,Wood,0,1,Metal,Gourmet,Pool Access,1,542,0
+Pikipek,Gholdengo1,Machoke,Lombre,37.9497,-5.7895,Family,Static,Basic,Mid,Fiore,Hoenn,Villa,0,1,Missing,0,0,Metal,Kitchenette,BBQ,2,558,0
+Sudowoodo,Flittle2,Shroodle1,Cyndaquil,46.3012,-2.4939,Romantic,Static,Basic,Mid,Orre,Johto,Lodge,1,1,Wood,0,0,Metal,Missing,Pool Access,1,501,1
+Runerigus,Wailmer,Ninjask,Buzzwole2,46.4108,11.3726,Standard,Seasonal,Basic,Mid,Ransei,Kanto,Cabin,1,1,Wood,0,0,Thatched,Kitchenette,Hot Tub,2,245,1
+Caterpie2,Cetitan,Bergmite1,Kleavor,59.4955,18.8843,Standard,Seasonal,Basic,Budget,Almia,Sinnoh,Lodge,0,1,Composite,0,0,Wood,Full,Hot Tub,1,230,0
+Pidove,Omanyte1,Galvantula1,Kingler,52.0635,22.4996,Standard,Permanent,Self-Catering,Budget,Oblivia,Unova,Caravan,0,2,Wood,0,0,Metal,Full,Garden,1,105,0
+Buizel1,Electabuzz,Rotom,Camerupt,54.5749,-5.2021,Comfort,Seasonal,Basic,Mid,Pasio,Galar,Villa,1,1,Composite,0,1,Metal,Gourmet,Missing,1,366,1
+Morpeko,Tangrowth1,Veluza,Vespiquen1,60.6097,16.1118,Standard,Mobile,Basic,Budget,Almia,Sinnoh,Bungalow,0,2,Wood,0,1,Wood,Kitchenette,Furniture,1,210,0
+Smoliv,Alcremie1,Eevee1,Drowzee,49.7273,-2.0172,Standard,Seasonal,Self-Catering,Budget,Orre,Johto,Villa,0,1,Missing,0,0,Tile,Full,Missing,1,464,0
+Aron1,Simisage,Grovyle1,Scatterbug,42.0879,5.5206,Romantic,Permanent,Basic,Budget,Orre,Kalos,Lodge,1,2,Composite,0,0,Thatched,Kitchenette,Garden,1,460,0
+Politoed1,Sandshrew,Bidoof,Wingull,49.7858,11.5964,Romantic,Seasonal,Serviced,Budget,Ransei,Kanto,Glamping,1,2,Composite,0,0,Thatched,Basic,Pool Access,1,205,0
+Miraidon,Inteleon,Amoonguss1,Milcery,60.3855,20.7554,Luxury,Permanent,Serviced,Mid,Almia,Sinnoh,Villa,1,3,Tile,0,0,Metal,Gourmet,Missing,1,472,0
+Stunfisk,Mantine,Arcanine,Magby,59.0935,2.5499,Romantic,Static,Basic,Budget,Ferrum,Hisui,Cabin,1,2,Tile,0,0,Wood,Basic,Missing,1,261,1
+Cradily1,Plusle,Tynamo,Marowak,37.5395,-3.4486,Comfort,Seasonal,Serviced,Budget,Fiore,Hoenn,Caravan,0,1,Stone,0,0,Metal,Kitchenette,Garden,1,253,0
+Toxapex,Ivysaur,Ditto,Marill,59.6186,6.4531,Romantic,Permanent,Self-Catering,Budget,Ferrum,Hisui,Bungalow,0,1,Composite,0,0,Wood,Gourmet,Missing,1,181,0
+Lileep,Snover2,Toxapex1,Fuecoco,49.4039,-0.6577,Luxury,Static,Serviced,Mid,Orre,Johto,Lodge,1,3,Missing,0,0,Canvas,Missing,Hot Tub,1,382,1
+Pyroar,Mimikyu,Drakloak1,Jellicent1,35.127,-4.5445,Comfort,Mobile,Basic,Mid,Fiore,Hoenn,Glamping,1,3,Missing,0,0,Canvas,Missing,BBQ,2,228,1
+Munchlax2,Furret,Golurk1,Quaxwell,47.8426,-0.756,Standard,Static,All-Inclusive,Mid,Orre,Johto,Caravan,1,2,Wood,0,0,Thatched,Basic,Garden,1,209,1
+Honedge1,Thundurus1,Mawile1,Cramorant2,47.5784,11.1476,Comfort,Permanent,Self-Catering,Budget,Ransei,Kanto,Glamping,1,1,Wood,0,0,Tile,Missing,BBQ,1,169,0
