@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+scripts/
+README.md
+nixpacks.toml
+runtime.txt
