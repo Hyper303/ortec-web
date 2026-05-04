@@ -31,6 +31,9 @@ streamlit run app.py
 1. Push this `ortec_web` folder as a GitHub repo.
 2. Create a Railway project from that repo.
 3. Railway will use `Procfile` to start the app.
+4. This repo includes:
+   - `nixpacks.toml` (installs `libgomp1` required by LightGBM)
+   - `runtime.txt` (pins Python runtime to 3.11 for better wheel compatibility)
 
 ## Updating model or logic later
 
