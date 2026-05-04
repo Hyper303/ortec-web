@@ -33,6 +33,7 @@ streamlit run app.py
 3. Railway should detect `Dockerfile` and build with Docker (recommended).
 4. The Docker image installs `libgomp1`, which is required by LightGBM.
 5. If Railway still uses Nixpacks, set the service builder to **Dockerfile** in Railway settings.
+6. In Railway Variables, remove `STREAMLIT_SERVER_PORT` if it is set to a literal string like `$PORT`.
 
 ## Updating model or logic later
 
