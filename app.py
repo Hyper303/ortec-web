@@ -394,7 +394,7 @@ def main() -> None:
     with tab_profile:
         st.subheader("Auto-filled Location Profile")
         p = campsite_master[campsite_master["CampsiteCode"].astype(str) == str(campsite_code)].copy()
-        st.dataframe(p[LOCATION_COLS + FIXED_LOCATION_PROFILE_COLS], hide_index=True, use_container_width=True)
+        st.dataframe(p[LOCATION_COLS + FIXED_LOCATION_PROFILE_COLS], hide_index=True, width="stretch")
 
     with tab_acco:
         edited_accommodation: dict[str, Any] = {}
@@ -466,7 +466,7 @@ def main() -> None:
         w2.metric("What-if Predicted Occupancy", f"{pred_occ:.2%}")
         w3.metric("What-if Predicted Incremental Revenue", f"{pred_revenue:.2f}")
 
-        st.dataframe(candidates.sort_values("candidate_multiplier"), use_container_width=True, hide_index=True)
+        st.dataframe(candidates.sort_values("candidate_multiplier"), width="stretch", hide_index=True)
 
 
 if __name__ == "__main__":
