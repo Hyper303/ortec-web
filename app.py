@@ -336,8 +336,8 @@ def main() -> None:
 
     selected_row[DATE_COL] = week_start
     selected_row["WeekBeforeArrival"] = int(lead_time)
-    derived_arrival_date = week_start + pd.to_timedelta(int(lead_time) * 7, unit="D")
-    arrival_month = str(int(derived_arrival_date.month))
+    # derived_arrival_date = week_start + pd.to_timedelta(int(lead_time) * 7, unit="D")
+    # arrival_month = str(int(derived_arrival_date.month))
     selected_row["ArrivalMonth"] = arrival_month
     selected_row["stay_week_of_year"] = int(week_start.isocalendar().week)
     selected_row["stay_year"] = int(week_start.year)
@@ -350,8 +350,8 @@ def main() -> None:
         selected_row["stay_week_index"] = max_idx + max(delta, 0)
 
     with st.sidebar:
-        st.text_input("Derived Arrival Date", value=derived_arrival_date.strftime("%Y-%m-%d"), disabled=True)
-        st.text_input("Arrival Month", value=arrival_month, disabled=True)
+        # st.text_input("Derived Arrival Date", value=derived_arrival_date.strftime("%Y-%m-%d"), disabled=True)
+        # st.text_input("Arrival Month", value=arrival_month, disabled=True)
         st.subheader("Operational Inputs")
         if app_mode == "Historical Row Mode":
             capacity_default = float(selected_row["Capacity"])
