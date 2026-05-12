@@ -337,7 +337,7 @@ def main() -> None:
     selected_row[DATE_COL] = week_start
     selected_row["WeekBeforeArrival"] = int(lead_time)
     # derived_arrival_date = week_start + pd.to_timedelta(int(lead_time) * 7, unit="D")
-    # arrival_month = str(int(derived_arrival_date.month))
+    arrival_month = str(int(week_start.month))
     selected_row["ArrivalMonth"] = arrival_month
     selected_row["stay_week_of_year"] = int(week_start.isocalendar().week)
     selected_row["stay_year"] = int(week_start.year)
